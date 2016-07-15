@@ -1,0 +1,14 @@
+body {
+	background: yellowgreen;
+}
+
+header {
+	background: blue;
+	text-align: center;
+	height: 123%;
+	margin-top: 10;
+}
+h1 {
+	font-family: segoe script 
+	color:#02FF00;
+}
